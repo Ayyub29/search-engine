@@ -9,19 +9,19 @@ Pada kesempatan ini, kalian akan membangun sebuah Search Engine yang lebih kompl
 2. Penerapan Algoritma TF-IDF dalam Search Engine
 3. Menampilkan Relevansi dan Ranking Pencarian dengan Page Rank Algorithm
 
-## Milestone 1: Implementasi Heap Sort untuk Pengurutan (900 poin)
+## Milestone 1: Implementasi Heap Sort untuk Pengurutan (800 poin)
 Pengurutan (sorting) menjadi faktor terpenting dalam menampilkan urutan website berdasarkan relevansi tertinggi. Dahulu kalian sudah mempelajari berbagai jenis sorting seperti Bubble Sort, Quick Sort, Merge Sort, Insertion Sort, dan Selection Sort. Pada kesempatan ini, kalian kami tantang membangun sebuah sorting jenis lain yang disebut sebagai Heap Sort. Buat juga analisis terkait Heapsort serta kelebihan dan kekurangannya dalam sebuah file README.
 
-## Milestone 2: Penerapan Algoritma TF-IDF dalam Search Engine (1500 poin)
+## Milestone 2: Penerapan Algoritma TF-IDF dalam Search Engine (1400 poin)
 Penerapan Cosine Similarity pada Tubes Aljabar dan Geometri sebelumnya memiliki beberapa kekurangan. Pada tugas kali ini, kami tantang kalian untuk mengimplementasikan pembuntakn vektor dengan TF-IDF terlebih dahulu sebelum menerapkan Cosine Similarity. Buat juga analisis terkait Algoritma TF-IDF serta Kelebihan dan Kekurangannya dalam sebuah file README.
 
-## Milestone 3: Menampilkan Relevansi dan Ranking Pencarian dengan Page Rank Algorithm (1500 poin)
+## Milestone 3: Menampilkan Relevansi dan Ranking Pencarian dengan Page Rank Algorithm (1400 poin)
 Penerapan TF-IDF dalam Search Engine masih memiliki beberapa kekurangan. Untuk itu, dibutuhkan _second metric_ untuk membantu mengatasi kelemahan tersebut. Untuk itu, kami tantang kalian untuk mengimplementasikan PageRank Algorithm, algoritma yang ditemukan oleh Larry Page untuk Google. Penerapan kombinasi antara TF-IDF dan PageRank Algorithm dibebaskan, namun jelaskan alasannya dalam sebuah file README. Buat juga analisis terkait PageRank Algorithm serta Kelebihan dan Kekurangannya dalam file README yang sama.
 
 ## Bonus
-1. Dokumen-dokumen yang diperoleh dilakukan dengan teknik Web Scraping. (250 poin)
-2. Search Engine dalam jumlah yang besar dengan pengambilan lebih dari 100 dokumen. Anda tentu membutuhkan script atau automation tertentu untuk menunjang kebutuhan ini. Untuk pemodelan referensi pada Page Rank dibebaskan metodenya. (600 poin)
-3. Tuliskan alasan masuk IRK serta ingin menjadi asisten untuk matkul apa saja beserta alasan dalam README utama. (0.75 Poin/Kata, Maks 250 Poin)
+1. Dokumen-dokumen yang diperoleh dilakukan dengan teknik Web Scraping. (200 poin)
+2. Search Engine dalam jumlah yang besar dengan pengambilan lebih dari 100 dokumen. Anda tentu membutuhkan script atau automation tertentu untuk menunjang kebutuhan ini. Untuk pemodelan referensi pada Page Rank dibebaskan metodenya. (500 poin)
+3. Tuliskan alasan masuk IRK serta ingin menjadi asisten untuk matkul apa saja beserta alasan dalam README utama. (0.5 Poin/Kata, Maks 150 Poin)
 
 # Spesifikasi Program
 1. Program yang dibangun merupakan aplikasi berbasis web menggunakan bahasa Golang (GO). Bahasa ini menjadi tren zaman sekarang, khususnya dalam membangun back end dari sebuah website.
