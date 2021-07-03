@@ -1,5 +1,5 @@
 # Search Engine: Extended Version
-Versi Senin, 6 Juli 2021
+Versi Selasa, 7 Juli 2021
 
 ## Latar Belakang
 Semester 3 yang lalu, kalian sudah berhasil membangun sebuah Search Engine sederhana berbasis Cosinus Similarity. Tentu Search Engine tersebut adalah bentuk search engine yang sudah disimplifikasi dari Search Engine yang sesungguhnya. Oleh karena itu, pada proyek ini, kami menantang kalian Ca-IRK 2019 untuk membangun sebuah search engine yang lebih advanced dan mendekati dengan search engine yang sesungguhnya.
