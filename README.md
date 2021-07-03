@@ -19,7 +19,7 @@ Penerapan Cosine Similarity pada Tubes Aljabar dan Geometri sebelumnya memiliki 
 Penerapan TF-IDF dalam Search Engine masih memiliki beberapa kekurangan. Untuk itu, dibutuhkan _second metric_ untuk membantu mengatasi kelemahan tersebut. Untuk itu, kami tantang kalian untuk mengimplementasikan PageRank Algorithm, algoritma yang ditemukan oleh Larry Page untuk Google. Penerapan kombinasi antara TF-IDF dan PageRank Algorithm dibebaskan, namun jelaskan alasannya dalam sebuah file README. Buat juga analisis terkait PageRank Algorithm serta Kelebihan dan Kekurangannya dalam file README yang sama.
 
 ## Bonus
-1. Dokumen-dokumen yang diperoleh dilakukan dengan teknik Web Scraping. (200 poin, Prereq: Milestone 2)
+1. Dokumen-dokumen yang diperoleh dilakukan dengan teknik Web Scraping. (100 poin, Prereq: Milestone 2)
 2. Search Engine dalam jumlah yang besar dengan pengambilan lebih dari 100 dokumen. Anda tentu membutuhkan script atau automation tertentu untuk menunjang kebutuhan ini. Untuk pemodelan referensi pada Page Rank dibebaskan metodenya. (600 poin, Prereq: Milestone 2)
 3. Tuliskan alasan masuk IRK serta ingin menjadi asisten untuk matkul apa saja beserta alasan dalam README utama. (0.5 Poin/Kata, Maks 150 Poin, Prereq: Milestone 3)
 
