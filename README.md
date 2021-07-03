@@ -9,7 +9,7 @@ Pada kesempatan ini, kalian akan membangun sebuah Search Engine yang lebih kompl
 2. Penerapan Algoritma TF-IDF dalam Search Engine
 3. Menampilkan Relevansi dan Ranking Pencarian dengan Page Rank Algorithm
 
-## Milestone 1: Implementasi Heap Sort untuk Pengurutan (800 poin)
+## Milestone 1: Implementasi Heap Sort untuk Pengurutan (750 poin)
 Pengurutan (sorting) menjadi faktor terpenting dalam menampilkan urutan website berdasarkan relevansi tertinggi. Dahulu kalian sudah mempelajari berbagai jenis sorting seperti Bubble Sort, Quick Sort, Merge Sort, Insertion Sort, dan Selection Sort. Pada kesempatan ini, kalian kami tantang membangun sebuah sorting jenis lain yang disebut sebagai Heap Sort. Buat juga analisis terkait Heapsort serta kelebihan dan kekurangannya dalam sebuah file README.
 
 ## Milestone 2: Penerapan Algoritma TF-IDF dalam Search Engine (1250 poin)
@@ -20,7 +20,7 @@ Penerapan TF-IDF dalam Search Engine masih memiliki beberapa kekurangan. Untuk i
 
 ## Bonus
 1. Dokumen-dokumen yang diperoleh dilakukan dengan teknik Web Scraping. (200 poin, Prereq: Milestone 2)
-2. Search Engine dalam jumlah yang besar dengan pengambilan lebih dari 100 dokumen. Anda tentu membutuhkan script atau automation tertentu untuk menunjang kebutuhan ini. Untuk pemodelan referensi pada Page Rank dibebaskan metodenya. (500 poin, Prereq: Milestone 2)
+2. Search Engine dalam jumlah yang besar dengan pengambilan lebih dari 100 dokumen. Anda tentu membutuhkan script atau automation tertentu untuk menunjang kebutuhan ini. Untuk pemodelan referensi pada Page Rank dibebaskan metodenya. (600 poin, Prereq: Milestone 2)
 3. Tuliskan alasan masuk IRK serta ingin menjadi asisten untuk matkul apa saja beserta alasan dalam README utama. (0.5 Poin/Kata, Maks 150 Poin, Prereq: Milestone 3)
 
 # Spesifikasi Program
