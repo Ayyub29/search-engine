@@ -12,10 +12,10 @@ Pada kesempatan ini, kalian akan membangun sebuah Search Engine yang lebih kompl
 ## Milestone 1: Implementasi Heap Sort untuk Pengurutan (800 poin)
 Pengurutan (sorting) menjadi faktor terpenting dalam menampilkan urutan website berdasarkan relevansi tertinggi. Dahulu kalian sudah mempelajari berbagai jenis sorting seperti Bubble Sort, Quick Sort, Merge Sort, Insertion Sort, dan Selection Sort. Pada kesempatan ini, kalian kami tantang membangun sebuah sorting jenis lain yang disebut sebagai Heap Sort. Buat juga analisis terkait Heapsort serta kelebihan dan kekurangannya dalam sebuah file README.
 
-## Milestone 2: Penerapan Algoritma TF-IDF dalam Search Engine (1400 poin)
+## Milestone 2: Penerapan Algoritma TF-IDF dalam Search Engine (1250 poin)
 Penerapan Cosine Similarity pada Tubes Aljabar dan Geometri sebelumnya memiliki beberapa kekurangan. Pada tugas kali ini, kami tantang kalian untuk mengimplementasikan pembuntakn vektor dengan TF-IDF terlebih dahulu sebelum menerapkan Cosine Similarity. Buat juga analisis terkait Algoritma TF-IDF serta Kelebihan dan Kekurangannya dalam sebuah file README.
 
-## Milestone 3: Menampilkan Relevansi dan Ranking Pencarian dengan Page Rank Algorithm (1400 poin)
+## Milestone 3: Menampilkan Relevansi dan Ranking Pencarian dengan Page Rank Algorithm (1250 poin)
 Penerapan TF-IDF dalam Search Engine masih memiliki beberapa kekurangan. Untuk itu, dibutuhkan _second metric_ untuk membantu mengatasi kelemahan tersebut. Untuk itu, kami tantang kalian untuk mengimplementasikan PageRank Algorithm, algoritma yang ditemukan oleh Larry Page untuk Google. Penerapan kombinasi antara TF-IDF dan PageRank Algorithm dibebaskan, namun jelaskan alasannya dalam sebuah file README. Buat juga analisis terkait PageRank Algorithm serta Kelebihan dan Kekurangannya dalam file README yang sama.
 
 ## Bonus
